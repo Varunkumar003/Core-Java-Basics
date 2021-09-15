@@ -1,7 +1,7 @@
 public class Main
 {
-    public static void main(String[] args) {
-       
+    public static void main(String[] args) 
+    {
     int a=Integer.parseInt(args[0]);
     if (a%2==0)
     {
@@ -11,5 +11,5 @@ public class Main
     {
         System.out.println("odd");
             }
-    }
+    } 
 }
